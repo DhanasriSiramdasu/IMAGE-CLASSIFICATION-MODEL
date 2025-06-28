@@ -4,21 +4,21 @@ I had created a Convolutional Neural Network (CNN) for image classification usin
 OUTPUT:
 
 Files already downloaded and verified<br/>
-Files already downloaded and verified
-Epoch [1/10], Step [100/500], Loss: 1.6782
-Epoch [1/10], Step [200/500], Loss: 1.4321
-...
-Epoch [10/10], Step [100/500], Loss: 0.7893
-Epoch [10/10], Step [200/500], Loss: 0.6542
-Training Finished
-Accuracy of the model on the 10000 test images: 70.12%
-Accuracy of plane: 75.30%
-Accuracy of car: 82.10%
-Accuracy of bird: 59.80%
-Accuracy of cat: 52.40%
-Accuracy of deer: 67.90%
-Accuracy of dog: 62.50%
-Accuracy of frog: 78.20%
-Accuracy of horse: 74.60%
-Accuracy of ship: 80.10%
-Accuracy of truck: 78.30%
+Files already downloaded and verified<br/>
+Epoch [1/10], Step [100/500], Loss: 1.6782<br/>
+Epoch [1/10], Step [200/500], Loss: 1.4321<br/>
+...<br/>
+Epoch [10/10], Step [100/500], Loss: 0.7893<br/>
+Epoch [10/10], Step [200/500], Loss: 0.6542<br/>
+Training Finished<br/>
+Accuracy of the model on the 10000 test images: 70.12%<br/>
+Accuracy of plane: 75.30%<br/>
+Accuracy of car: 82.10%<br/>
+Accuracy of bird: 59.80%<br/>
+Accuracy of cat: 52.40%<br/>
+Accuracy of deer: 67.90%<br/>
+Accuracy of dog: 62.50%<br/>
+Accuracy of frog: 78.20%<br/>
+Accuracy of horse: 74.60%<br/>
+Accuracy of ship: 80.10%<br/>
+Accuracy of truck: 78.30%<br/>
