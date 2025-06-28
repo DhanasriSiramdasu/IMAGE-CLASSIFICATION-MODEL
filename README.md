@@ -3,7 +3,7 @@ I had created a Convolutional Neural Network (CNN) for image classification usin
 
 OUTPUT:
 
-Files already downloaded and verified/n
+Files already downloaded and verified<br/>
 Files already downloaded and verified
 Epoch [1/10], Step [100/500], Loss: 1.6782
 Epoch [1/10], Step [200/500], Loss: 1.4321
